@@ -1,0 +1,4 @@
+Um exemplo prático que ilustra concretamente a abstração de dados é a leitura de um arquivo texto no formato CSV.
+Mude o código javascript para totalizar o valor dos arquivos contas1.csv e contas2.csv.
+Depois de implementado, teste a aplicação. Os valores deve ser 1521 e 2730.
+Para finalizar troque os arquivos de lugares e veja se seu código ainda funciona.
