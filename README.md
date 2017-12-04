@@ -1,2 +1,2 @@
-# ExeciciosBD2
-Exercícios da disciplina Banco de Dados 2
+# BD2
+Exercises of the discipline Database 2
